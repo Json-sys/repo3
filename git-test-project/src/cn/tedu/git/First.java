@@ -1,7 +1,7 @@
 package cn.tedu.git;
 
 public class First {
-    public void sayHello(){
+    public static void main(String[] args) {
         System.out.println("hello World");
         System.out.println("hello World");
         System.out.println("hello World");
